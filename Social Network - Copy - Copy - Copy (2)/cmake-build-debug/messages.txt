@@ -1,0 +1,13 @@
+23 1 9 test
+12 5 15   ce faci?
+8 10 14     nu vreau sa vin
+7 8 6     nici eu
+4 1 4       salll
+3 3 4       ceau
+2 2 1       binee tu?
+1 1 2       heii cf?
+5 3 6      Ce mai faci?
+6 6 8      nu stiu dc?
+9 9 11    hello cum esti
+10 11 9    binee
+11 12 13    suna-ma

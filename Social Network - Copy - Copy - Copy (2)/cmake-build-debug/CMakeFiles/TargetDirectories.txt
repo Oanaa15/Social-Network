@@ -1,0 +1,3 @@
+C:/Users/Oana/Desktop/SEM 2 AN 1/SDA curs + proiect/Social Network - Copy - Copy - Copy (2)/cmake-build-debug/CMakeFiles/proiectSDA.dir
+C:/Users/Oana/Desktop/SEM 2 AN 1/SDA curs + proiect/Social Network - Copy - Copy - Copy (2)/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Oana/Desktop/SEM 2 AN 1/SDA curs + proiect/Social Network - Copy - Copy - Copy (2)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
